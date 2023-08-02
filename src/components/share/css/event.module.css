@@ -1,0 +1,42 @@
+.event {
+     border: 1px dotted gray;
+    padding: 20px;
+    width: 360px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  .clockTime {
+    font-size: 50px;
+    font-family: 'Chakra Petch', sans-serif;
+    color: #62a6d3;
+}
+  .title {
+    font-size: 23px;
+    font-family: 'Fira Code', monospace;
+    color: #222;
+    margin: 10px 0px;
+  }
+  .timeStatus {
+    font-size: 16px;
+    
+  }
+  .date {
+    font-size: 16px;
+  }
+  .time {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .localTime {
+    font-size: 50px;
+    font-family: 'Chakra Petch', sans-serif;
+    color: #909eb3;
+}
+.localDate {
+    font-family: 'Chakra Petch', sans-serif;
+    color: #909eb3;
+}
